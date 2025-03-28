@@ -5,7 +5,7 @@ images with measurements will be added soon.
 The tracker is powered by a CR2032 single-cell "coin" battery.
 It can be powered by applying 3V/1A DC, this is enough to power the device, enabling tracking and beeping.
 
-Opening is quite trivial. I used a small flathead screwdriver and some iFixit "Opening Picks" (essentially guitar picks).
+Opening the tag is quite trivial. I used a small flathead screwdriver and some iFixit "Opening Picks" (essentially guitar picks).
 1. remove back cover and battery.
 2. get the screwdriver between the seams near where the keyring hole is and pry. You can also use a gap to the right of the keyring hole.
 3. pry using the screwdriver, picks, and your hands if needed
